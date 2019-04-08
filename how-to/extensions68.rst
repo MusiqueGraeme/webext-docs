@@ -309,6 +309,8 @@ You should now do this:
 in this way). Note that no second argument is supplied. The returned object is a dictionary of
 only the objects listed in ``EXPORTED_SYMBOLS``.
 
+Note that as well as changing the syntax for module import it seems that MailUtils.js has been replaced by MailUtils.jsm
+
 Network API Changes
 -------------------
 
